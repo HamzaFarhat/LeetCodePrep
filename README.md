@@ -1,3 +1,4 @@
 # LeetCodePrep
-- Some Leetcode solutions
-- Sol.py Best Time to Buy and Sell Stock II Solution
+- Some Leetcode solutions from my questions practice 
+## Sol.py 
+- Best Time to Buy and Sell Stock II Solution
