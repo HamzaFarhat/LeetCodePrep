@@ -1,5 +1,7 @@
 # LeetCodePrep
 - Some Leetcode solutions from my questions practice 
+## Remove Duplicate 
+- Uses O(1) memory space and a 2 pointer approach to solve question 
 ## Sol.py 
 - Best Time to Buy and Sell Stock II Solution
 ## Rotate.py
