@@ -6,3 +6,5 @@
 - Best Time to Buy and Sell Stock II Solution
 ## Rotate.py
 - Rotate index in array by value k (O(n) memeory space, makes use of second array) 
+## MoveZereos.py
+- used 2 pointer approach, one is non zero, other is zero. swap values, incerement both
