@@ -1,0 +1,39 @@
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
+        
+        """
+        a n a g r a m 
+        use hashmap 
+        1. declaring 2 hashmaps 
+        2. store 1 string in 1 hashmap 
+        3. repeat for second string 
+        
+        #new concept
+        hashmap{value:index}
+        {a:3 n:1 g:1 r: 1 m:1}
+        {0:3 1:1 2:2 }
+        
+        #array
+        s= [a n a g r a m]
+        """
+       
+        hashCounter = {} #just a dictionary, could have just used Counter() Data structure and them compare them as line 38
+        hashCounter2 = {}
+        
+        for i in s:
+            
+            if i not in hashCounter:
+                hashCounter[i] = 1
+            
+            else:
+                hashCounter[i] += 1
+      
+        for i in t: 
+            if i not in hashCounter2:
+                hashCounter2[i] = 1
+                
+            else:
+                hashCounter2[i] += 1
+                
+        return hashCounter == hashCounter2
+                
