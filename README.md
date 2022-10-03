@@ -10,3 +10,5 @@
 - used 2 pointer approach, one is non zero, other is zero. swap values, incerement both
 ## TwoSum.py
 - O(n^2) time complexity, 2 pointer approach may also be used here 
+## ReverseString.py 
+- O(n^2) time complexity, 2 pointer approach from opposite ends, instead o brute first and using .reverse() function in python
