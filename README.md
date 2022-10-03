@@ -12,3 +12,5 @@
 - O(n^2) time complexity, 2 pointer approach may also be used here 
 ## ReverseString.py 
 - O(n^2) time complexity, 2 pointer approach from opposite ends, instead o brute first and using .reverse() function in python
+## ValidAnagram.py
+- two different solutions O(1) memory is using bubble sort "sorted()" function built in on python. Also O(n) memory is comparing 2 dictionaries (key, value) pairs 
