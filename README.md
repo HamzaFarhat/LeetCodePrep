@@ -16,3 +16,5 @@
 - two different solutions O(1) memory is using bubble sort "sorted()" function built in on python. Also O(n) memory is comparing 2 dictionaries (key, value) pairs 
 ## RotateImage.py
 - Used matrices, rotate from one point to other 
+## Find difference between 2 programmers (Hackerrank) 
+- used a simple while loop to find how many days for one person to catch up to another to solve problems. Find edge cases
