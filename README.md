@@ -6,6 +6,8 @@
 - Best Time to Buy and Sell Stock II Solution
 ## Rotate.py
 - Rotate index in array by value k (O(n) memeory space, makes use of second array) 
+## ContainsDuplicate.py
+- Used sets to find theres no duplicates, just solved in one line as original list cannot equal to set(), if unequal theres a duplicate in the list, returns false 
 ## MoveZereos.py
 - used 2 pointer approach, one is non zero, other is zero. swap values, incerement both
 ## TwoSum.py
