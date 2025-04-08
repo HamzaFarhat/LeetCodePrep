@@ -23,6 +23,8 @@
 - Used matrices, rotate from one point to other 
 ## Find difference between 2 programmers (Hackerrank) 
 - used a simple while loop to find how many days for one person to catch up to another to solve problems. Find edge cases
+## Hashmap
+Find key value pairs using hash map
 
 # Strings 
 ## ReverseString.py 
